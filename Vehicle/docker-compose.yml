@@ -1,0 +1,50 @@
+version: '3.4'
+
+services:
+  vehicle.db.api:
+    image: ${DOCKER_REGISTRY-}vehicledbapi
+    container_name: dbapi
+    build:
+      context: .
+      dockerfile: Vehicle.DB.Api/Dockerfile
+    expose:
+       - "80"
+    environment:
+      ConnectionString: Server=192.168.2.105\SQLEXPRESS;Initial Catalog=master;User ID=apixsqladmin;Password=sqlriskfocus@123
+    ports:
+       - "887:80"  
+    #command: '-p 887:80/tcp'
+    
+
+  gateway.web.api:
+    image: ${DOCKER_REGISTRY-}gatewaywebapi
+    container_name: webapi
+    build:
+      context: .
+      dockerfile: ../Gatewau.Web.Api/Dockerfile
+    expose:
+      - "80"
+    environment:
+      HttpServiceUrl:  http://dbapi:80
+    ports:
+      - "888:80"
+
+  
+  vehicle.ping:
+    image: ${DOCKER_REGISTRY-}vehicleping
+    build:
+      context: .
+      dockerfile: ../Vehicle.Ping/Dockerfile
+
+
+  vehicle.test:
+    image: ${DOCKER_REGISTRY-}vehicletest 
+    build:
+      context: .
+      dockerfile: ../Vehicle.Test/Dockerfile
+
+  #ui:
+  #  image: ${DOCKER_REGISTRY-}vehicleui
+  #  build:
+  #    context: .
+  #    dockerfile: ../UI/vehicle.ui/dockerfile

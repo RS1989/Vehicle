@@ -1,0 +1,9 @@
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\bin\Debug\netcoreapp2.2\Vehicle.Models.deps.json
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\bin\Debug\netcoreapp2.2\Vehicle.Models.dll
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\bin\Debug\netcoreapp2.2\Vehicle.Models.pdb
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\obj\Debug\netcoreapp2.2\Vehicle.Models.csprojAssemblyReference.cache
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\obj\Debug\netcoreapp2.2\Vehicle.Models.csproj.CoreCompileInputs.cache
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\obj\Debug\netcoreapp2.2\Vehicle.Models.AssemblyInfoInputs.cache
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\obj\Debug\netcoreapp2.2\Vehicle.Models.AssemblyInfo.cs
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\obj\Debug\netcoreapp2.2\Vehicle.Models.dll
+C:\TestProject\Vehicle\Vehicle\Vehicle.DB.Models\obj\Debug\netcoreapp2.2\Vehicle.Models.pdb

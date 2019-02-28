@@ -1,0 +1,15 @@
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\appsetting.json
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\Vehicle.Ping.deps.json
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\Vehicle.Ping.runtimeconfig.json
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\Vehicle.Ping.runtimeconfig.dev.json
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\Vehicle.Ping.dll
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\Vehicle.Ping.pdb
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\Vehicle.Models.dll
+C:\TestProject\Vehicle\Vehicle.Ping\bin\Debug\netcoreapp2.2\Vehicle.Models.pdb
+C:\TestProject\Vehicle\Vehicle.Ping\obj\Debug\netcoreapp2.2\Vehicle.Ping.csprojAssemblyReference.cache
+C:\TestProject\Vehicle\Vehicle.Ping\obj\Debug\netcoreapp2.2\Vehicle.Ping.csproj.CoreCompileInputs.cache
+C:\TestProject\Vehicle\Vehicle.Ping\obj\Debug\netcoreapp2.2\Vehicle.Ping.AssemblyInfoInputs.cache
+C:\TestProject\Vehicle\Vehicle.Ping\obj\Debug\netcoreapp2.2\Vehicle.Ping.AssemblyInfo.cs
+C:\TestProject\Vehicle\Vehicle.Ping\obj\Debug\netcoreapp2.2\Vehicle.Ping.csproj.CopyComplete
+C:\TestProject\Vehicle\Vehicle.Ping\obj\Debug\netcoreapp2.2\Vehicle.Ping.dll
+C:\TestProject\Vehicle\Vehicle.Ping\obj\Debug\netcoreapp2.2\Vehicle.Ping.pdb

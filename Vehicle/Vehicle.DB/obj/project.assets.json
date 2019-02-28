@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Vehicle.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Vehicle.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vehicle.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vehicle.Models/1.0.0": {
+      "type": "project",
+      "path": "../Vehicle.DB.Models/Vehicle.Models.csproj",
+      "msbuildProject": "../Vehicle.DB.Models/Vehicle.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "Vehicle.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sheldon\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Project\\Vehicle\\Vehicle\\Vehicle\\Vehicle.DB\\Vehicle.DB.csproj",
+      "projectName": "Vehicle.DB",
+      "projectPath": "C:\\Project\\Vehicle\\Vehicle\\Vehicle\\Vehicle.DB\\Vehicle.DB.csproj",
+      "packagesPath": "C:\\Users\\Sheldon\\.nuget\\packages\\",
+      "outputPath": "C:\\Project\\Vehicle\\Vehicle\\Vehicle\\Vehicle.DB\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Sheldon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "C:\\Project\\Vehicle\\Vehicle\\Vehicle\\Vehicle.DB.Models\\Vehicle.Models.csproj": {
+              "projectPath": "C:\\Project\\Vehicle\\Vehicle\\Vehicle\\Vehicle.DB.Models\\Vehicle.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

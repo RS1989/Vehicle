@@ -1,0 +1,17 @@
+C:\TestProject\Vehicle\Gatewau.Web.Api\bin\Debug\netcoreapp2.2\Gateway.Web.Api.deps.json
+C:\TestProject\Vehicle\Gatewau.Web.Api\bin\Debug\netcoreapp2.2\Gateway.Web.Api.runtimeconfig.json
+C:\TestProject\Vehicle\Gatewau.Web.Api\bin\Debug\netcoreapp2.2\Gateway.Web.Api.runtimeconfig.dev.json
+C:\TestProject\Vehicle\Gatewau.Web.Api\bin\Debug\netcoreapp2.2\Gateway.Web.Api.dll
+C:\TestProject\Vehicle\Gatewau.Web.Api\bin\Debug\netcoreapp2.2\Gateway.Web.Api.pdb
+C:\TestProject\Vehicle\Gatewau.Web.Api\bin\Debug\netcoreapp2.2\Vehicle.Models.dll
+C:\TestProject\Vehicle\Gatewau.Web.Api\bin\Debug\netcoreapp2.2\Vehicle.Models.pdb
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.csprojAssemblyReference.cache
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.csproj.CoreCompileInputs.cache
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.RazorAssemblyInfo.cache
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.RazorAssemblyInfo.cs
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.AssemblyInfoInputs.cache
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.AssemblyInfo.cs
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.RazorTargetAssemblyInfo.cache
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.csproj.CopyComplete
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.dll
+C:\TestProject\Vehicle\Gatewau.Web.Api\obj\Debug\netcoreapp2.2\Gateway.Web.Api.pdb

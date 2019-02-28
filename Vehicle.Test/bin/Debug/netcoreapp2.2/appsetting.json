@@ -1,0 +1,5 @@
+{
+  "UpdateTicker": 3,
+  "ServiceUrl": "",
+  "UpdateStatus": "/api/VehicleDB/update-status"
+}
