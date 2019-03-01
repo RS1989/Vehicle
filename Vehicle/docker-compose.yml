@@ -25,7 +25,7 @@ services:
     expose:
       - "80"
     environment:
-      HttpServiceUrl:  http://dbapi:80
+      HttpServiceUrl:  http://vehicle.db.api:80
     ports:
       - "888:80"
 
